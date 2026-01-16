@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaskar&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 <a href="https://twitter.com/mohammadaskar2">
-  <img src="https://img.shields.io/twitter/follow/mohammadaskar2?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/twitter/follow/mhaskar01?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
